@@ -353,3 +353,4 @@ INDEX	YEAR	MONTH	DATE	AUTOSALE
 352	1999	4	.	.
 353	1999	5	.	.
 
+# Data from https://people.duke.edu/~rnau/411seas.htm
